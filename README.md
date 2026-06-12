@@ -1,4 +1,4 @@
-# Hydrogen Wettability Prediction (Bayesian-Optimized ET Model)
+# Predicting Wettability of Hydrogen Mixtures Using Bayesian-Optimized Regression Model
 
 ## 1. Overview
 
@@ -81,7 +81,7 @@ The model provides:
 - Input validity status based on training range checks
 
 ### 5.4 Prediction Example
-![HyWett GUI]()
+![HyWett GUI](https://github.com/JNTurkson/Bayesian-optimization/blob/main/Prediction_example.jpg)
 
 ---
 
